@@ -154,7 +154,7 @@ Finally, remember to spend your time with positive people who support your ambit
 
 The biggest economic misunderstanding of my childhood was that people got rich from high salaries. Though there are some exceptions—entertainers for example —almost no one in the history of the Forbes list has gotten there with a salary.
 
-You get truly rich by owning things that increase rapidly in value.
+**You get truly rich by owning things that increase rapidly in value.**
 
 This can be a piece of a business, real estate, natural resource, intellectual property, or other similar things. But somehow or other, you need to own equity in something, instead of just selling your time. Time only scales linearly.
 
@@ -176,20 +176,4 @@ This is why the question of a person’s motivation is so important. It’s the 
 
 Jessica Livingston and Paul Graham are my benchmarks for this. YC was widely mocked for the first few years, and almost no one thought it would be a big success when they first started. But they thought it would be great for the world if it worked, and they love helping people, and they were convinced their new model was better than the existing model.
 
-Eventually, you will define your success by performing excellent work in areas that are important to you. The sooner you can start off in that direction, the further you will be able to go. It is hard to be wildly successful at anything you aren’t obsessed with.
-
-
-[1] A comment response I wrote on HN:
-
-One of the biggest reasons I'm excited about basic income is the amount of human potential it will unleash by freeing more people to take risks.
-Until then, if you aren't born lucky, you have to claw your way up for awhile before you can take big swings. If you are born in extreme poverty, then this is super difficult :(
-
-It is obviously an incredible shame and waste that opportunity is so unevenly distributed. But I've witnessed enough people be born with the deck stacked badly against them and go on to incredible success to know it's possible.
-
-I am deeply aware of the fact that I personally would not be where I am if I weren't born incredibly lucky.
-
-
-Thanks to Brian Armstrong, Greg Brockman, Dalton Caldwell, Diane von Furstenberg, Maddie Hall, Drew Houston, Vinod Khosla, Jessica Livingston, Jon Levy, Luke Miles (6 drafts!), Michael Moritz, Ali Rowghani, Michael Seibel, Peter Thiel, Tracy Young and Shivon Zilis for reviewing drafts of this, and thanks especially to Lachy Groom for help writing it.
-
-
-
+**Eventually, you will define your success by performing excellent work in areas that are important to you. The sooner you can start off in that direction, the further you will be able to go. It is hard to be wildly successful at anything you aren’t obsessed with.**
