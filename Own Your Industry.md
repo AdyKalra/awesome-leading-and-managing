@@ -72,3 +72,8 @@
 * **Experts have a differnt culture to low-level workers. They think about thier industry, fixate on it, care about it, worry about it, wish they could change it, speak to it, interact with it, affect it, assist it in growing it. Their love of it is palpable and that is already most of the battle won."
 
 * **One of the surest ways to win any contest is to out-care your competition**
+
+* Performance specialists from sport to the business arena , will tell you that deciding to be "good" is not nearly as effective as deciding to be "the best". There is a vast psychological difference between the two and will affect your performance. **Obsession is a powerful thing". Decide that yow want to be the very best. Break it down into smallest constituent parts. Tune your mind to it, seek input, use deliberate practice, and you will start assimilating the information and performance cues necessary to make it happen. Don't aim for good , aim for the greatest.**
+
+* In everything you see, ask yourself: did I believe it? Or not? Am I impressed by that approach ? Or did it fail? Did it create authority? Or was it lame? Did that article jump up at me as the work of an expert? Or the fumbling of an amateur? Was it credible? Or did it fall short? What works and what doesn't?
+      * Asking the constant question will help you familiar to excellence in your field. 
