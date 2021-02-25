@@ -30,27 +30,27 @@
 27. Add your unique signature to your work - What is your unique signature?
 28. Develop a unique framework philosophy - when it comes to your unique framework philosophy, is there a way of organising your mountain of dots and dashes into something that people can instantly 'get'?
 29. Manage popularity by design - What visual or graphics opportunities could you exploit to create greater presence and visibility ?
-30. Gain extraordinary visibility
-31. Unify the tone of your branding and communications
-32. Control important positioning scenarios
-33. Do what you will say you do
-34. Be the one that responds
-35. Make the other look good
-36. Be politicaly astute
-37. Price yourself at the right level
-38. Have your customers sell to you
-39. Give Gurantees 
-40. Start with your toolbox
-41. Determine some passion points
-42. Find an opportunity to give value
-43. Use the Thought Leadershgip formula
-44. Speak with strength
-45. Use the incredible power of metaphors
-46. Stories are your very best friends
-47. Frame issues and create urgency
-48. Constantly manufacture messages
-49. Get much, much more mileage out of an idea
-50. Experts always leave a trail of breadcrumbs.
+30. Gain extraordinary visibility - If you were a journalist, what sort of publicity even would hook your interest?
+31. Unify the tone of your branding and communications - How many of your marketing and communication elements currently have a different branding tones?
+32. Control important positioning scenarios - What is your deeper agenda during important expert positioning scenarios?
+33. Do what you will say you do - If you are honest with yourself, when last were you not true to your word?
+34. Be the one that responds - Are you in the habit of returning all communications immidiately?
+35. Make the other look good - What can you do to make your enablers look good in the eye of thier clients?
+36. Be politicaly astute - Does negative media put you into a state of emotional lockdown? or do you seek out the opportunity in the storm?
+37. Price yourself at the right level - Are you charging mid to upper levels in your industry? 
+38. Have your customers sell to you - Do you sell from a place of desperation? 
+39. Give Gurantees - The next time you have an opportunity to design a message , be it writing an article or facing an interview , why not reread and put in extra effort
+40. Start with your toolbox - Are the key marketing phrases in your terminology toolbox catchy and memorable?
+41. Determine some passion points - What issues are you strongly opposed to in your industry and how can they beturned on into a ralllying cry
+42. Find an opportunity to give value - What free education can you give away with the underlying message that you are the best in the business.
+43. Use the Thought Leadershgip formula - Beyond simply having the facts have you considered what your insights and information mean in the lives of your target audience
+44. Speak with strength - Based on issues in your industry, what catchphrases can you develop to sum up a concept quickly?
+45. Use the incredible power of metaphors - Are you like the empty husk who never developed metaphors?
+46. Stories are your very best friends - Have you started a file for stock stories that illustrate your messages?
+47. Frame issues and create urgency - Can you make your essage urgent by setting deadlines and parameters?
+48. Constantly manufacture messages - Do you understand what essential pain you resolve?
+49. Get much, much more mileage out of an idea - Do you have a system for maximising the effectiveness of your articles?
+50. Experts always leave a trail of breadcrumbs. - How are you providing ways for them to find and follow you?
 
 * Motivation
     * Premium Positioning is a choice , just as wealth is a choice, and no one else can make that choice for you.
