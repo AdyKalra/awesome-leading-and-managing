@@ -77,3 +77,9 @@
 
 * In everything you see, ask yourself: did I believe it? Or not? Am I impressed by that approach ? Or did it fail? Did it create authority? Or was it lame? Did that article jump up at me as the work of an expert? Or the fumbling of an amateur? Was it credible? Or did it fall short? What works and what doesn't?
       * Asking the constant question will help you familiar to excellence in your field. 
+
+* You need the knowledge, you need the experience. And that means you have to put in the hours. If you spend just one hour daily within a year you will be an expert in your industry
+
+* Be specific and find your niche, in other words  dont be a broad generalist.
+
+* 
