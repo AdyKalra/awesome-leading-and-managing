@@ -117,3 +117,25 @@ unconnected with one another or, worse, that conflict with one another.
 competitive situation can create whole new patterns of advantage and weakness. The most
 powerful strategies arise from such game-changing insights.
 
+- Having conflicting goals, dedicating resources to unconnected targets, and accommodating
+incompatible interests are the luxuries of the rich and powerful, but they make for bad strategy.
+Despite this, most organizations will not create focused strategies. Instead, they will generate laundry
+lists of desirable outcomes and, at the same time, ignore the need for genuine competence in
+coordinating and focusing their resources. Good strategy requires leaders who are willing and able to
+say no to a wide variety of actions and interests. Strategy is at least as much about what an
+organization does not do as it is about what it does.
+
+- Bad strategy is not simply the absence of good strategy. It grows out of specific misconceptions
+and leadership dysfunctions. Once you develop the ability to detect bad strategy, you will
+dramatically improve your effectiveness at judging, influencing, and creating strategy. To detect a bad
+strategy, look for one or more of its four major hallmarks:
+    - Fluf . Fluff is a form of gibberish masquerading as strategic concepts or arguments. It uses
+“Sunday” words (words that are inflated and unnecessarily abstruse) and apparently esoteric
+concepts to create the illusion of high-level thinking.
+    - Failure to face the challenge. Bad strategy fails to recognize or define the challenge. When
+you cannot define the challenge, you cannot evaluate a strategy or improve it.
+    - Mistaking goals for strategy. Many bad strategies are just statements of desire rather than
+plans for overcoming obstacles.
+    - Bad strategic objectives. A strategic objective is set by a leader as a means to an end.
+Strategic objectives are “bad” when they fail to address critical issues or when they are
+impracticable.
