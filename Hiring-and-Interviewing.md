@@ -12,6 +12,8 @@
 
 - [Developer Survey Results](https://insights.stackoverflow.com/survey/2017) - by StackOverflow. Annual survey. Takeaways: When assessing potential jobs, developers prioritize "opportunities for professional development" over any other factor by a large margin; the comp/benefits selected the most often relate to mental and physical health: vacation days, remote options, and health; 89% of devs at least "somewhat agreed" that diversity is important, up from 73% in 2016; developers generally supported "c-sat" and "being on time/budget" as the best ways to evaluate the performance of a fellow dev; there's a moderate correlation between remote work and job satisfaction.
 
+- [Don’t Hire Top Talent; Hire for Weaknesses.](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - by Benji Weber. Takeaway: "A weaknesses-oriented process might mean saying yes to someone inexperienced who’s good at asking the right questions. Someone whose feedback will help the experienced engineers in the team keep things simple and operable."
+
 - [Here’s Why Soft Skills Are More Important Than Technical Skills](https://blog.usejournal.com/heres-why-soft-skills-are-more-important-than-technical-skills-6a1a5ea5540a) - by Alida Miranda-Wolff. Takeaway: "It is not enough to hire curious communicators with critical thinking skills and high EQ and CQ. We need to provide them with the resources and opportunities to sharpen their soft skills in the same way we would encourage them to get regular certifications, go to training courses, and shadow specialists to hone their technical skills."
 
 - [The Hidden Reason You Can’t Scale Your Engineering Team](https://blog.opsolutely.com/the-hidden-reason-you-cant-scale-your-engineering-team-935f197eb996) - by Jack Danger. Takeaway: Hiring only "senior engineers" is a recipe for failure. "When a team advertises that they only hire senior engineers, what they’re really saying is that their people and technology infrastructure can’t support hiring beginners – a strong indication of fragile tooling and a fragile team. If you’re at all interested in growth, this should serve as a huge red flag, because it is extraordinarily difficult to scale a fragile team."
@@ -77,11 +79,8 @@
 - [What Managers Are Getting Wrong About the World’s Greatest Job Ad](http://blog.idonethis.com/greatest-job-ad/) - by Blake Thorne at iDoneThis. Takeaway: A good job posting outlines the mission, the risks and the rewards.
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - by anonymous. Takeaway: Be careful with the "brilliant" word. Many brilliant people start a lot and are visionaries or charismatic, but don't finish what they started.
-
-- [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want) - by
-  Ammon Bartram.  Takeaways: Companies look for very different types of
-  programmers, requiring different types of interviews.  Consider nine
-  profiles and which ones your company actually wants.
+  
+- [Why You Should Invest in Undervalued People](https://acloudguru.com/blog/business/why-you-should-invest-in-undervalued-people) - by Joe Emison. Takeaway: "There are excellent software developers who hate hackathons and would rather spend time raising their children on weekends than on coding side projects. There are people who are neuroatypical who can’t deal well with your unrealistic, on-the-spot brain teasers. There are people who need some additional training and mentorship to be able to ship software effectively for most organizations. These people are all undervalued by the standard hiring practices in tech, which means that, with some effort on your part, they’ll give the highest return on investment of any hires you can make."
 
 ### Interviewing Candidates
 
@@ -109,7 +108,7 @@
   
 - [How to Make Tech Interviews a Little Less Awful](https://medium.com/@racheltho/how-to-make-tech-interviews-a-little-less-awful-c29f35431987) - by Rachel Thomas. Takeaway: Don't believe that the smartest individuals make for the smartest teams. Think about whether you're hiring people just like you/yourselves; and consider false negatives. "[I]f an entire industry’s interview processes are biased against a particular group of people, members of that group will have a hard time getting hired anywhere, regardless of how talented they are." Based your interviews around these factors: It reesembles actual work the candidate would be doing in their job; clear rubrics; consistent and standardized; don’t have an elite-candidate fast path.
 
-- [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) - by Jeff Jenkins and David Park. Takeaway: offers an overview of a three-hour take-home they give and use for onsite code review.
+- [Improving Our Engineering Interview Process](https://medium.com/foursquare-direct/improving-our-engineering-interview-process-106173ba25a9) - by Jeff Jenkins and David Park. Takeaway: offers an overview of a three-hour take-home they give and use for onsite code review.
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
  

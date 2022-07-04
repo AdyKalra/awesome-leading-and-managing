@@ -20,11 +20,15 @@
 
 - [Owning Your Onboarding (Specially in Remote Work)](https://dmellonielet.com/2020/11/30/software-engineers-guide-to-owning-the-onboarding.html) - by Nielet D'mello. Takeaway: includes a nine-point template for gaining control over your onboarding and links to additional resources.
 
+- [Seniorless — 4 Tips for Effectively Onboarding Juniors](https://medium.com/@gabrielgrinberg/seniorless-4-tips-for-effectively-onboarding-juniors-50268ab8df0a) - by Gabriel Grinberg. Takeaway: Build efforts around task-based formal training, strong mentoring and review processes, and growing people into taking on more complex work.
+ 
 - [Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) (video) - a full onboarding curriculum by Kate Heddleston, from RailsConf 2014. Takeaway: Onboarding is taking someone from outside the team and making them productive (technical knowledge); independent/autonomous (company/process knowledge); reliably independent; and confident/believe they are valuable (personal development). 
 
 - [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
 
 - [Toast’s Engineering Team Doubled. Here’s How They Scaled Onboarding.](https://www.donut.com/blog/onboarding-engineers-at-toast/) - by Toast. Takeaway: "Ultimately, Toast’s engineering onboarding playbook is comprised of a mixture of background information transmitted through automated systems, coupled with direct in-person trainings. Team leads and onboarding buddies help fill in the gaps to get each and every person acclimated to life at Toast and ready to do their best work. The entire process is systematized and documented, so that everyone knows what to expect, and labor is divided between automated systems and people on the team, so that no one person is overburdened and nothing slips through the cracks."
+
+- [Treat Your Onboarding Process Like Your Build System](https://medium.com/vpe-coach/treat-your-onboarding-process-like-your-build-system-381474aff0f1) - by Don Neufeld. Takeaway: "Onboarding must be: Repeatable; Self Service; Written Down; In Source Control. Additionally, I believe the key to keep your onboarding documentation alive, accurate, and up to date is this: Every New Hire Must Update The Docs."
 
 ## Onboarding Decks
 

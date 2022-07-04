@@ -5,6 +5,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46) - by Aaron Randall. Takeaway: About Songkick's career growth framework's nine roles and seven key values, and how the company created it.
 
+- [Career Ladders](https://career-ladders.dev) - by Sarah Drasner. Takeaway: open source ladders for Engineering, Developer Experience, and Documentation.
+
 - [Career Ladders Aren't Enough – You Need a Thoughtful Promotion Process, Too](https://leaddev.com/career-paths-progression-promotion/career-ladders-arent-enough-you-need-thoughtful-promotion) - by Sarah Milstein. Takeaway: “Having built a process that appears to be reducing negative effects and increasing trustworthy promotions, I’m hopeful that the combination of career ladders and decision-making with a transparent structure can help many organizations grow more smoothly.”
 
 - [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
@@ -79,7 +81,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Betterment Tested Three Performance Management Systems So You Don't Have To](http://firstround.com/review/betterment-tested-three-performance-management-systems-so-you-dont-have-to/) - by FirstRound. Takeaway: "Create clear lanes for your team to run; and align your structure key and processes to achieve what needs to get done. Empower employees to run as well and as fast as they can in the right direction by providing the right context. Define measurable goals to hit in a way that makes it clear to everyone what they're supposed to be doing every day."
 
-- [Cognitive Bias and Why Performance Management Ss So Hard](https://www.freecodecamp.org/news/cognitive-bias-and-why-performance-management-is-so-hard-8852a1b874cd/) - by Osman (Ozzie) Ahmed Osman. Takeaway: A smart article that delves into the psychological factors that make or break good calls during performance reviews. Gives an overview of common biases, such as the fundamental attribution error, confirmation bias, and self-serving bias.
+- [Cognitive Bias and Why Performance Management Is So Hard](https://www.freecodecamp.org/news/cognitive-bias-and-why-performance-management-is-so-hard-8852a1b874cd/) - by Osman (Ozzie) Ahmed Osman. Takeaway: A smart article that delves into the psychological factors that make or break good calls during performance reviews. Gives an overview of common biases, such as the fundamental attribution error, confirmation bias, and self-serving bias.
 
 - [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f) - by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 

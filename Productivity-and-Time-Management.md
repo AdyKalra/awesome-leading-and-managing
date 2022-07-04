@@ -6,6 +6,8 @@
 
 - [How to Say No](https://www.starterstory.com/how-to-say-no) - by various authors. Takeaway: Email/message templates for declining projects, meetings,  written interviews, and other opportunities/situations.
 
+- [How to Work Smarter, Not Harder: Myth or Efficient Strategy?](https://www.paymoapp.com/blog/work-smarter-not-harder/) - by Alexandra Cote. Takeaway: Delegate work, don’t be afraid of change coming your way, and prioritize the right way.
+
 - [Kaleidoscope Thinking: How to Think Faster and More Clearly](https://taylorpearson.me/kaleidoscope/) - by Taylor Pearson. Takeaway: use mental models from different disciplines and use them in a routine way, to build a latticework process. Read a lot, and study different models. 
 
 - [Only You Can Prevent Tech Burnout](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) - by April Wensel. Takeaway: "The prevailing work culture in Silicon Valley is not sustainable. We all know it, but few are doing anything to change it...As leaders, whether in name or in spirit, you have a responsibility to cultivate a healthier, more sustainable culture. Why? Your team will be more productive. As shared in *The Optimistic Workplace*, 'People in positive work environments outperform those who work in negative climates by 10–30%.' As an employee, you owe it to yourself to improve your own situation, whether that means inspiring change at your current company or moving on to somewhere that actually does value you as a human being."
@@ -34,7 +36,7 @@
 
 - [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/) - by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
 
-- [Daily Planning — Get Ready for the Current Day](https://impactspheres.co/daily-planning-get-ready-for-the-current-day-91ffbd243c26) - by Jurgen Appelo. Takeaway: a five-part exercise to help you prioritize the day's work and break it down into achievable chunks.
+- [Daily Planning — Get Ready for the Current Day](https://medium.com/@jurgenappelo/daily-planning-get-ready-for-the-current-day-91ffbd243c26) - by Jurgen Appelo. Takeaway: a five-part exercise to help you prioritize the day's work and break it down into achievable chunks.
 
 - [Data Driven Time Management](http://okdork.com/time-management-tips/) - by Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to decide how you really want to be spending your time. This does not just mean office time!
 
@@ -63,8 +65,6 @@
 - [How Much to Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
 
 - [It's Time to Stop Wearing Burnout as a Badge of Courage](https://advice.shinetext.com/articles/its-time-to-stop-wearing-burnout-as-a-badge-of-courage/) - by Stephanie Jade Wong. Takeaway: Predict your burnout using the Overwhelm Cycle, a diagram of a clock that highlights what happens at 11:30 PM for you to hit burnout mode. Then work your way backward. Get a support network, plan breaks and list priorities. 
-
-- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
 
 - [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2) - by Seth Godin, Dan Ariely, Gretchen Rubin, Erin Rooney Doland, and other contributors. The book shows you how to stop letting other people run your schedule; find the right recharge/productivity balance; optimize digital communications/social media use, and more.
 
