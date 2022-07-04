@@ -102,3 +102,18 @@ obstacles because a leader believes that negative thoughts get in the way. Leade
 strategy by mistakenly treating strategy work as an exercise in goal setting rather than problem
 solving. Or they may avoid hard choices because they do not wish to offend anyone—generating a
 bad strategy that tries to cover all the bases rather than focus resources and actions.
+
+- The most basic idea of strategy is the application of strength against weakness. Or, if you prefer,
+strength applied to the most promising opportunity. The standard modern treatment of strategy has
+expanded this idea into a rich discussion of potential strengths, today called “advantages.” There are
+advantages due to being a first mover: scale, scope, network effects, reputation, patents, brands, and
+hundreds more. None of these are logically wrong, and each can be important. Yet this whole
+midlevel framework misses two huge, incredibly important natural sources of strength:
+    1. Having a coherent strategy—one that coordinates policies and actions. A good strategy
+doesn’t just draw on existing strength; it creates strength through the coherence of its design.
+Most organizations of any size don’t do this. Rather, they pursue multiple objectives that are
+unconnected with one another or, worse, that conflict with one another.
+    2. The creation of new strengths through subtle shifts in viewpoint. An insightful reframing of a
+competitive situation can create whole new patterns of advantage and weakness. The most
+powerful strategies arise from such game-changing insights.
+
