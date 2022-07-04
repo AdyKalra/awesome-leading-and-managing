@@ -64,3 +64,41 @@ fork and said, “Strategy is never quitting until you win.” I could not have 
 was not there to argue or lecture. “Winning is better than losing,” I said, and the conversation
 turned to other matters.
 
+- Strategy cannot be a useful concept if it is a synonym for
+success. Nor can it be a useful tool if it is confused with ambition, determination, inspirational
+leadership, and innovation. Ambition is drive and zeal to excel. Determination is commitment and
+grit. Innovation is the discovery and engineering of new ways to do things. Inspirational leadership
+motivates people to sacrifice for their own and the common good.
+ And strategy, responsive to
+innovation and ambition, selects the path, identifying how, why, and where leadership and
+determination are to be applied.
+- A word that can mean anything has lost its bite. To give content to a concept one has to draw lines,
+marking off what it denotes and what it does not. To begin the journey toward clarity, it is helpful to recognize that the words “strategy” and “strategic” are often sloppily used to mark decisions made by
+the highest-level officials. For example, in business, most mergers and acquisitions, investments in
+expensive new facilities, negotiations with important suppliers and customers, and overall
+organizational design are normally considered to be “strategic.” However, when you speak of
+“strategy,” you should not be simply marking the pay grade of the decision maker. Rather, the term
+“strategy” should mean a cohesive response to an important challenge. Unlike a stand-alone decision
+or a goal, a strategy is a coherent set of analyses, concepts, policies, arguments, and actions that
+respond to a high-stakes challenge.
+- Many people assume that a strategy is a big-picture overall direction, divorced from any specific
+action. But defining strategy as broad concepts, thereby leaving out action, creates a wide chasm
+between “strategy” and “implementation.” If you accept this chasm, most strategy work becomes
+wheel spinning. Indeed, this is the most common complaint about “strategy.” Echoing many others,
+one top executive told me, “We have a sophisticated strategy process, but there is a huge problem of
+execution. We almost always fall short of the goals we set for ourselves.” If you have followed my
+line of argument, you can see the reason for this complaint. A good strategy includes a set of coherent
+actions. They are not “implementation” details; they are the punch in the strategy. A strategy that fails
+to define a variety of plausible and feasible immediate actions is missing a critical component.
+
+
+- A good strategy has an essential logical structure that I call the kernel. The kernel of a strategy
+contains three elements: a diagnosis, a guiding policy, and coherent action. The guiding policy
+specifies the approach to dealing with the obstacles called out in the diagnosis. It is like a signpost,
+marking the direction forward but not defining the details of the trip. Coherent actions are feasible
+coordinated policies, resource commitments, and actions designed to carry out the guiding policy
+- Bad strategy is more than just the absence of good strategy. Bad strategy has a life and logic of its own, a false edifice built on mistaken foundations. Bad strategy may actively avoid analyzing
+obstacles because a leader believes that negative thoughts get in the way. Leaders may create bad
+strategy by mistakenly treating strategy work as an exercise in goal setting rather than problem
+solving. Or they may avoid hard choices because they do not wish to offend anyone—generating a
+bad strategy that tries to cover all the bases rather than focus resources and actions.
