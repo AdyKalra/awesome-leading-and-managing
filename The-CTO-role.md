@@ -15,3 +15,4 @@
 - [Mastering Sales as a CTO](https://jjude.com/cto-sales/) - by Joseph Jude. Takeaway: Most careers turn into sales jobs when you get senior enough. For an IT services company, there is none better suited to build trust in the minds of prospects than a chief technology officer. A CTO can follow a structured approach to handle sales calls. The structure could be: Pre-call preparation, on-call performance, and retro (post-call and post-closure).
 
 - [The role of a CTO](https://www.youtube.com/watch?v=5wMKPk4xQGE)
+- [So you want to be a CTO](https://www.youtube.com/watch?v=oQjsQCq3aWA)
