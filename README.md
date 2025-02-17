@@ -20,6 +20,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Building Teams](Building-Teams.md)
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [The CTO Role](The-CTO-role.md)
+- [CTO Shenanigans](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/CTO%20shenanigans.md)
 - [Culture](Culture.md)
 - [Decision-Making and Prioritization](Decision-Making-and-Prioritization.md)
 - [Delegation](Delegation.md)
