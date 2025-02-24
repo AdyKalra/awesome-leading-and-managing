@@ -42,4 +42,6 @@ These trends highlight that modern CTOs are expected to go beyond technical expe
 - **Data & Analytics Leadership** – Implement data-driven decision-making frameworks.
 - **Sustainability & ESG Initiatives** – Drive green computing and ethical AI adoption.
 - **M&A Tech Due Diligence** – Lead technology evaluations during mergers and acquisitions
+- **Transformation Strategy**: Develop and implement a comprehensive transformation strategy aligned with the organization's goals and objectives.
+- **Operational Excellence:** Drive operational efficiency by identifying and implementing process improvements, automation, and optimization initiatives. Streamline workflows, eliminate redundancies, and enhance productivity across departments. 
 
