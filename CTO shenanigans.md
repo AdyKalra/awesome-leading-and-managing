@@ -34,6 +34,8 @@ These trends highlight that modern CTOs are expected to go beyond technical expe
     - Communicate complex technical strategies to non-technical stakeholders.
     - Engage with **investors, board members, and external partners**.
     - Ability to **drive buy-in for major technology investments**.
+    - Represent the **company’s technology vision to external stakeholders, including investors, partners, and customers**.
+    - Contribute to **technical marketing efforts, including client case studies,** technical specifications, and feature descriptions.
 
 **Unique Responsibilities Noted in Job Listings:**
 - **AI & Automation Strategy** – Lead the adoption of AI-driven technologies and automation frameworks.
@@ -43,5 +45,6 @@ These trends highlight that modern CTOs are expected to go beyond technical expe
 - **Sustainability & ESG Initiatives** – Drive green computing and ethical AI adoption.
 - **M&A Tech Due Diligence** – Lead technology evaluations during mergers and acquisitions
 - **Transformation Strategy**: Develop and implement a comprehensive transformation strategy aligned with the organization's goals and objectives.
-- **Operational Excellence:** Drive operational efficiency by identifying and implementing process improvements, automation, and optimization initiatives. Streamline workflows, eliminate redundancies, and enhance productivity across departments. 
+- **Operational Excellence:** Drive operational efficiency by identifying and implementing process improvements, automation, and optimization initiatives. Streamline workflows, eliminate redundancies, and enhance productivity across departments.
+- **Compliance**  Familiarity with healthcare IT standards like HL7, FHIR, and HIPAA compliance.
 
