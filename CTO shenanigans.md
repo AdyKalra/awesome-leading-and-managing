@@ -11,6 +11,9 @@ These trends highlight that modern CTOs are expected to go beyond technical expe
     -  Evaluate and implement emerging technologies to **maintain a competitive edge**.
     -  Work closely with product, operations, and business teams to drive technical solutions.
     -  Manage **technology budgets** and resources efficiently.
+        -  Measure and analyse team performance (throughput, quality, utilisation, profitability).
+        -  Implement improvements based on performance metrics to enhance customer satisfaction and profitability.
+        -  Maintain transparency in engineering performance and report on key metrics, including financials.   
     -  Ensure **compliance with industry standards, regulations, and cybersecurity** best practices.
     -  Represent the company in technical discussions, partnerships, and industry events.
 - **Technical Leadership & Strategy**
