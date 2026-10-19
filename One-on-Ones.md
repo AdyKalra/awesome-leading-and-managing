@@ -60,3 +60,5 @@
 - [What to Talk About in 1:1’s](https://wizardzines.com/comics/1-1s/) - by Julia Evans. Takeaway: An illustrated list of topics to bring up, written for the direct report.
 
 - [Why 1-1 Meetings Are Crucial to Your Team’s Success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) - by Trish Tormey. Takeaway: "The 1-1 is the best way for managers and those who report to them to connect on pressing issues, develop a strong relationship, and ensure that employees feel like they’re working toward their goals – at work, and otherwise. Without a proper framework, agenda, and mindset, however, the 1-1 meeting can become just another meeting in your day."   
+
+- [One-on-one agenda template and questions](https://roygroundup.com/tools/one-on-one-agenda) — by RoyGroundUp. Takeaway: Make it their meeting: their topics first, then how they're really doing, then yours, and end with actions that have a date. Free template, no sign-up.
